@@ -1,0 +1,29 @@
+/* NAV */
+nav {
+    background-color: black;
+    color: white;
+    }
+
+.navbar-collapse {
+justify-content: flex-end;
+        }
+
+#navbarDropdownMenuLink
+{
+    color:white;
+}
+
+.navbar-toggler
+{ 
+    background-color: white
+}
+
+.navbar-brand {
+    position: relative;
+    z-index: 1; }
+
+img{
+    max-width: 100%;
+    height: auto;
+    opacity: 1;
+}
